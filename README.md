@@ -1,3 +1,3 @@
 # Javis-II
 Javis (propably not)
-complete written in Java (100%)
+complete written in Java
